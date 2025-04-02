@@ -7,7 +7,7 @@
 namespace LIBC_NAMESPACE {
 
 _Float16 atanpif16(_Float16 x);
-
+ 
 } 
 
 #endif
